@@ -3,4 +3,4 @@ Registration Number: SP26-ELC-042
 Section: A
 
 Why learning programming is important for me:
-Learning programming is important for me because it helps me understand how technology works. It improves my problem-solving and logical thinking skills. Programming can help me create useful projects and software in the future. It is also an important skill for my studies in electronics and computing. Learning programming can open many career opportunities for me and help me become more creative and confident with technology.
+Programming is something that is important to learn as it enables one to hone his or her problem-solving abilities. This skill becomes even more relevant when talking about studying electronics and computer science as there are a lot of modern devices based on software programming and coding. Moreover, through programming, I have an opportunity to make projects and become more creative as well as open up lots of possible career paths ahead of me.
